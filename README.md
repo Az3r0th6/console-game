@@ -1,3 +1,5 @@
+Comparto el codigo para ejecturalo por consola y tambien un codigo muy escuesto utilizando solo vcode con una interface basica
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
